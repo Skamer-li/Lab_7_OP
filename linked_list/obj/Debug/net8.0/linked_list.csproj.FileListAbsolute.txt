@@ -1,0 +1,14 @@
+C:\KPI\2 semester\linked_list\linked_list\bin\Debug\net8.0\linked_list.exe
+C:\KPI\2 semester\linked_list\linked_list\bin\Debug\net8.0\linked_list.deps.json
+C:\KPI\2 semester\linked_list\linked_list\bin\Debug\net8.0\linked_list.runtimeconfig.json
+C:\KPI\2 semester\linked_list\linked_list\bin\Debug\net8.0\linked_list.dll
+C:\KPI\2 semester\linked_list\linked_list\bin\Debug\net8.0\linked_list.pdb
+C:\KPI\2 semester\linked_list\linked_list\obj\Debug\net8.0\linked_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\KPI\2 semester\linked_list\linked_list\obj\Debug\net8.0\linked_list.AssemblyInfoInputs.cache
+C:\KPI\2 semester\linked_list\linked_list\obj\Debug\net8.0\linked_list.AssemblyInfo.cs
+C:\KPI\2 semester\linked_list\linked_list\obj\Debug\net8.0\linked_list.csproj.CoreCompileInputs.cache
+C:\KPI\2 semester\linked_list\linked_list\obj\Debug\net8.0\linked_list.dll
+C:\KPI\2 semester\linked_list\linked_list\obj\Debug\net8.0\refint\linked_list.dll
+C:\KPI\2 semester\linked_list\linked_list\obj\Debug\net8.0\linked_list.pdb
+C:\KPI\2 semester\linked_list\linked_list\obj\Debug\net8.0\linked_list.genruntimeconfig.cache
+C:\KPI\2 semester\linked_list\linked_list\obj\Debug\net8.0\ref\linked_list.dll

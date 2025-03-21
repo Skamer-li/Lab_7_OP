@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\KPI\\2 semester\\linked_list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6411CFDF-FBB5-4CA2-B756-90487C12BB3B}|linked_list\\linked_list.csproj|c:\\kpi\\2 semester\\linked_list\\linked_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6411CFDF-FBB5-4CA2-B756-90487C12BB3B}|linked_list\\linked_list.csproj|solutionrelative:linked_list\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6411CFDF-FBB5-4CA2-B756-90487C12BB3B}|linked_list\\linked_list.csproj|c:\\kpi\\2 semester\\linked_list\\linked_list\\listenumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6411CFDF-FBB5-4CA2-B756-90487C12BB3B}|linked_list\\linked_list.csproj|solutionrelative:linked_list\\listenumerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6411CFDF-FBB5-4CA2-B756-90487C12BB3B}|linked_list\\linked_list.csproj|c:\\kpi\\2 semester\\linked_list\\linked_list\\linkedlistmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6411CFDF-FBB5-4CA2-B756-90487C12BB3B}|linked_list\\linked_list.csproj|solutionrelative:linked_list\\linkedlistmod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\KPI\\2 semester\\linked_list\\linked_list\\obj\\Debug\\net8.0\\linked_list.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:linked_list\\obj\\Debug\\net8.0\\linked_list.GlobalUsings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "linked_list.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\KPI\\2 semester\\linked_list\\linked_list\\obj\\Debug\\net8.0\\linked_list.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "linked_list\\obj\\Debug\\net8.0\\linked_list.GlobalUsings.g.cs",
+              "ToolTip": "C:\\KPI\\2 semester\\linked_list\\linked_list\\obj\\Debug\\net8.0\\linked_list.GlobalUsings.g.cs",
+              "RelativeToolTip": "linked_list\\obj\\Debug\\net8.0\\linked_list.GlobalUsings.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T20:15:16.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListEnumerator.cs",
+              "DocumentMoniker": "C:\\KPI\\2 semester\\linked_list\\linked_list\\ListEnumerator.cs",
+              "RelativeDocumentMoniker": "linked_list\\ListEnumerator.cs",
+              "ToolTip": "C:\\KPI\\2 semester\\linked_list\\linked_list\\ListEnumerator.cs",
+              "RelativeToolTip": "linked_list\\ListEnumerator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T10:14:27.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LinkedListMod.cs",
+              "DocumentMoniker": "C:\\KPI\\2 semester\\linked_list\\linked_list\\LinkedListMod.cs",
+              "RelativeDocumentMoniker": "linked_list\\LinkedListMod.cs",
+              "ToolTip": "C:\\KPI\\2 semester\\linked_list\\linked_list\\LinkedListMod.cs",
+              "RelativeToolTip": "linked_list\\LinkedListMod.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowDgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:54:55.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\KPI\\2 semester\\linked_list\\linked_list\\Program.cs",
+              "RelativeDocumentMoniker": "linked_list\\Program.cs",
+              "ToolTip": "C:\\KPI\\2 semester\\linked_list\\linked_list\\Program.cs",
+              "RelativeToolTip": "linked_list\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T08:54:32.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
